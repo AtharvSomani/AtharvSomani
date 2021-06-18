@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AtharvSomani
 - 👀 I’m interested in ML,AI, IOT and Cloud Computing
-- 🌱 I’m currently Computer Science engg. student
+- 🌱 I’m currently Second year Computer Science engineering student
 
 
 
