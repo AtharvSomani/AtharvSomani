@@ -1,3 +1,4 @@
+Hi 👋, I'm Atharv Somani
 ## Hi there! I'm a passionate student exploring the world of Artificial Intelligence (AI), Machine Learning (ML). My journey revolves around understanding the intricate algorithms that power modern AI systems and building impactful projects that showcase the potential of these technologies.
 
 <!--
