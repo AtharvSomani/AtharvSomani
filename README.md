@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm a passionate student exploring the world of Artificial Intelligence (AI), Machine Learning (ML). My journey revolves around understanding the intricate algorithms that power modern AI systems and building impactful projects that showcase the potential of these technologies.
 
 <!--
 **AtharvSomani/AtharvSomani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
